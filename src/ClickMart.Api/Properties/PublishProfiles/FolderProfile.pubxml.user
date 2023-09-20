@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Api\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2023-07-28T05:41:26.0316470Z;True|2023-07-28T10:29:18.1222346+05:00;True|2023-07-28T10:26:04.5077168+05:00;True|2023-07-28T10:07:45.4428100+05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

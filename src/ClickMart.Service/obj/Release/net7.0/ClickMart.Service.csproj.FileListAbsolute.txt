@@ -1,0 +1,17 @@
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\bin\Release\net7.0\ClickMart.Service.deps.json
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\bin\Release\net7.0\ClickMart.Service.dll
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\bin\Release\net7.0\ClickMart.Service.pdb
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\bin\Release\net7.0\ClickMart.DataAccess.dll
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\bin\Release\net7.0\ClickMart.Domain.dll
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\bin\Release\net7.0\ClickMart.DataAccess.pdb
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\bin\Release\net7.0\ClickMart.Domain.pdb
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\obj\Release\net7.0\ClickMart.Service.csproj.AssemblyReference.cache
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\obj\Release\net7.0\ClickMart.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\obj\Release\net7.0\ClickMart.Service.AssemblyInfoInputs.cache
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\obj\Release\net7.0\ClickMart.Service.AssemblyInfo.cs
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\obj\Release\net7.0\ClickMart.Service.csproj.CoreCompileInputs.cache
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\obj\Release\net7.0\ClickMart.Service.csproj.CopyComplete
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\obj\Release\net7.0\ClickMart.Service.dll
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\obj\Release\net7.0\refint\ClickMart.Service.dll
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\obj\Release\net7.0\ClickMart.Service.pdb
+C:\Users\sheyx\Desktop\clickmart-webapi\src\ClickMart.Service\obj\Release\net7.0\ref\ClickMart.Service.dll

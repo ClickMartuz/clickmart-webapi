@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "od2K2dlmidpuVupBOYqH08Yrf1AEsS4Dc4MhwPGIeNUneeF2cVwORrsjty0sTupRO+SUIVZe6h88XGAYnvjJoA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Persistance\\ClickMart.Persistance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sheyx\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\sheyx\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\sheyx\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\sheyx\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sheyx\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\sheyx\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\sheyx\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

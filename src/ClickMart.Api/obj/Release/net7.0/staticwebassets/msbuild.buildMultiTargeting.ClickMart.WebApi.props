@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ClickMart.WebApi.props" />
+</Project>

@@ -1,0 +1,301 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\media\\images\\IMG_2127d30d-6aef-4292-93af-ca025b8ce84a.png",
+      "PackagePath": "staticwebassets\\media\\images\\IMG_2127d30d-6aef-4292-93af-ca025b8ce84a.png"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\media\\images\\IMG_2203ef1a-920a-4952-8ba0-3801c7d7dff6.png",
+      "PackagePath": "staticwebassets\\media\\images\\IMG_2203ef1a-920a-4952-8ba0-3801c7d7dff6.png"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\media\\images\\IMG_2960c309-b8d8-4269-aee4-4f8cd4f7a445.jpg",
+      "PackagePath": "staticwebassets\\media\\images\\IMG_2960c309-b8d8-4269-aee4-4f8cd4f7a445.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\media\\images\\IMG_48f55d98-85b5-412b-b28d-19e37c7d0885.jpg",
+      "PackagePath": "staticwebassets\\media\\images\\IMG_48f55d98-85b5-412b-b28d-19e37c7d0885.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\media\\images\\IMG_5560d8cd-96b2-4a19-956b-db94dd3c694e.png",
+      "PackagePath": "staticwebassets\\media\\images\\IMG_5560d8cd-96b2-4a19-956b-db94dd3c694e.png"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\media\\images\\IMG_74903067-f3d3-40ff-be7b-aa63107778ea.png",
+      "PackagePath": "staticwebassets\\media\\images\\IMG_74903067-f3d3-40ff-be7b-aa63107778ea.png"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\media\\images\\IMG_9e964720-aaf0-428e-9514-7399a0e35fd7.png",
+      "PackagePath": "staticwebassets\\media\\images\\IMG_9e964720-aaf0-428e-9514-7399a0e35fd7.png"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\media\\images\\IMG_a4523931-433e-470e-8655-91e8fc019df9.png",
+      "PackagePath": "staticwebassets\\media\\images\\IMG_a4523931-433e-470e-8655-91e8fc019df9.png"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\media\\images\\IMG_bdb991ed-6e07-498d-97b5-00a928c42b28.png",
+      "PackagePath": "staticwebassets\\media\\images\\IMG_bdb991ed-6e07-498d-97b5-00a928c42b28.png"
+    },
+    {
+      "Id": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.Api\\wwwroot\\media\\images\\IMG_e64e9d73-c4a0-4a61-8c40-4ab40863dff5.jpg",
+      "PackagePath": "staticwebassets\\media\\images\\IMG_e64e9d73-c4a0-4a61-8c40-4ab40863dff5.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ClickMart.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ClickMart.WebApi.props",
+      "PackagePath": "build\\ClickMart.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ClickMart.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\ClickMart.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ClickMart.WebApi.props",
+      "PackagePath": "buildTransitive\\ClickMart.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

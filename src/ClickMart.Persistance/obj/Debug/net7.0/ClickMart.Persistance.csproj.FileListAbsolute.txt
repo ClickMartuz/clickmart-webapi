@@ -1,0 +1,17 @@
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\obj\Debug\net7.0\ClickMart.Persistance.csproj.AssemblyReference.cache
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\obj\Debug\net7.0\ClickMart.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\obj\Debug\net7.0\ClickMart.Persistance.AssemblyInfoInputs.cache
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\obj\Debug\net7.0\ClickMart.Persistance.AssemblyInfo.cs
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\obj\Debug\net7.0\ClickMart.Persistance.csproj.CoreCompileInputs.cache
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\bin\Debug\net7.0\ClickMart.Persistance.deps.json
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\bin\Debug\net7.0\ClickMart.Persistance.dll
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\bin\Debug\net7.0\ClickMart.Persistance.pdb
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\bin\Debug\net7.0\ClickMart.DataAccess.dll
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\bin\Debug\net7.0\ClickMart.Domain.dll
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\bin\Debug\net7.0\ClickMart.DataAccess.pdb
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\bin\Debug\net7.0\ClickMart.Domain.pdb
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\obj\Debug\net7.0\ClickMart.Persistance.csproj.CopyComplete
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\obj\Debug\net7.0\ClickMart.Persistance.dll
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\obj\Debug\net7.0\refint\ClickMart.Persistance.dll
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\obj\Debug\net7.0\ClickMart.Persistance.pdb
+C:\Projects\asp.net-core\clickmart-webapi\src\ClickMart.Persistance\obj\Debug\net7.0\ref\ClickMart.Persistance.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HLdzNtQCRdsQ5CfDM6u63EyVt5HJbxyP6TmDxTLxSHWut5k8/bm+LqGmzVpI1/vIl3sU/Ia4bA0urAzCJaFVow==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\asp.net-core\\clickmart-webapi\\src\\ClickMart.DataAccess\\ClickMart.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sheyx\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\sheyx\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sheyx\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
