@@ -27,9 +27,10 @@ public class ProductService : IProductService
     public async Task<bool> CreateAsync(ProductsCreateDto dto)
     {
         string imagepath = await _service.UploadImageAsync(dto.Image);
-
+        
         Product product = new Product()
         {
+
             ImagePath = imagepath,
             Name = dto.Name,
             CategoryId = dto.CategoryId,

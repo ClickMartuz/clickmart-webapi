@@ -3,6 +3,7 @@ using ClickMart.DataAccess.Interfaces.Users;
 using ClickMart.DataAccess.Repositories;
 using ClickMart.DataAccess.Utils;
 using ClickMart.DataAccess.ViewModels.Users;
+using ClickMart.Domain.Entities.Products;
 using ClickMart.Domain.Entities.Users;
 using Dapper;
 using static Dapper.SqlMapper;
@@ -86,14 +87,50 @@ public class UserRepository : BaseRepository, IUserRepository
         }
     }
 
-    public Task<IList<UserViewModel>> GetAllAsync(PaginationParams @params)
+    public async Task<IList<UserViewModel?>> GetAllAsync(PaginationParams @params)
     {
-        throw new NotImplementedException();
+        try
+        {
+            await _connection.OpenAsync();
+
+            string query = $"Select * from public.orders order by id desc " +
+                $"offset {@params.GetSkipCount()} limit {@params.PageSize}";
+
+            var result = (await _connection.QueryAsync<UserViewModel>(query)).ToList();
+
+            return result;
+        }
+
+        catch
+        {
+            return null;
+        }
+
+        finally
+        {
+            await _connection.CloseAsync();
+        }
     }
 
-    public Task<UserViewModel?> GetByIdAsync(long id)
+    public async Task<UserViewModel?> GetByIdAsync(long id)
     {
-        throw new NotImplementedException();
+        try
+        {
+            await _connection.OpenAsync();
+            string query = "select * from public.users where id = @Id";
+            var res = await _connection.QuerySingleAsync<UserViewModel>(query,new {Id = id});
+            return res;
+        }
+
+        catch
+        {
+            return null;
+        }
+
+        finally 
+        {
+            await _connection.CloseAsync();
+        }
     }
 
     public Task<(int ItemsCount, IList<UserViewModel>)> SearchAsync(string search, PaginationParams @params)

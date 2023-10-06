@@ -62,23 +62,88 @@ public class OrderRepository : BaseRepository, IOrderRepository
         }
     }
 
-    public Task<int> DeleteAsync(long id)
+    public async Task<int> DeleteAsync(long id)
     {
-        throw new NotImplementedException();
+        try
+        {
+            await _connection.OpenAsync();
+            string query = "DELETE FROM public.orders WHERE id = @Id;";
+            var result = await _connection.ExecuteAsync(query, new { Id = id });
+            return result;
+        }
+
+        catch
+        {
+            return 0;
+        }
+
+        finally
+        {
+            await _connection.CloseAsync();
+        }
     }
 
-    public Task<IList<Order>> GetAllAsync(PaginationParams @params)
+    public async Task<IList<Order>> GetAllAsync(PaginationParams @params)
     {
-        throw new NotImplementedException();
+        try
+        {
+            await _connection.OpenAsync();
+            string query = $"Select * from public.orders order by id desc " +
+                $"offset {@params.GetSkipCount()} limit {@params.PageSize}";
+            var result = (await _connection.QueryAsync<Order>(query)).ToList();
+
+            return result;
+
+        }
+
+        catch
+        {
+            return new List<Order>();
+        }
+
+        finally
+        {
+            await _connection.CloseAsync();
+        }
     }
 
-    public Task<Order?> GetByIdAsync(long id)
+    public async Task<Order?> GetByIdAsync(long id)
     {
-        throw new NotImplementedException();
+        try
+        {
+            await _connection.OpenAsync();
+            string query = "select * from public.orders where id = @Id";
+            var result = await _connection.QuerySingleAsync<Order>(query, new { Id = id });
+            return result;
+        }
+        
+        catch
+        {
+            return null;
+        }
+
+        finally
+        {
+            await _connection.CloseAsync();
+        }
     }
 
-    public Task<int> UpdateAsync(long id, Order entity)
+    public async Task<int> UpdateAsync(long id, Order entity)
     {
-        throw new NotImplementedException();
+        try
+        {
+            await _connection.OpenAsync();
+            string query = "";
+        }
+
+        catch
+        {
+
+        }
+
+        finally
+        {
+            await _connection.CloseAsync();
+        }
     }
 }

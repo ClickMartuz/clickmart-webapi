@@ -1,5 +1,8 @@
 ﻿using ClickMart.DataAccess.Interfaces.Orders;
+using ClickMart.DataAccess.Utils;
 using ClickMart.Domain.Entities.Orders;
+using ClickMart.Domain.Entities.Users;
+using ClickMart.Domain.Exceptions.Orders;
 using ClickMart.Persistance.Dtos.Orders;
 using ClickMart.Service.Interfaces.Orders;
 
@@ -19,28 +22,68 @@ public class OrderService : IOrderService
     public Task<long> CountAsync()
         => _repository.CountAsync();
 
-    public Task<bool> CreateAsync(OrderCreateDto dto)
+
+    public async Task<bool> CreateAsync(OrderCreateDto dto)
     {
-        throw new NotImplementedException();
+
+        Order order = new Order()
+        {
+            UserId = dto.UserId,
+            DeliverId = dto.DeliverId,
+            Status = dto.Status,
+            ProductsPrice = dto.ProductsPrice,
+            DeliveryPrice = dto.DeliveryPrice,
+            ResultPrice = dto.ResultPrice,
+            Latitude = dto.Latitude,
+            Longitude = dto.Longitude,
+            Payment = dto.Payment,
+            IsPaid = dto.IsPaid,
+            IsContracted = dto.IsContracted,
+            Description = dto.Description,
+        };
+    
+
+        var result = await _repository.CreateAsync(order);
+
+        return result > 0;
     }
 
-    public Task<bool> DeleteAsync(long orderId)
+    public async Task<bool> DeleteAsync(long orderId)
     {
-        throw new NotImplementedException();
+        var result = await _repository.DeleteAsync(orderId);
+
+        return result > 0;
     }
 
-    public Task<IList<Order>> GetAllAsync(long id)
+    public async Task<IList<Order>> GetAllAsync(PaginationParams @params)
     {
-        throw new NotImplementedException();
+        var order = await _repository.GetAllAsync(@params);
+
+        return order;
     }
 
-    public Task<Order> GetByIdAsync(long id)
+    public async Task<Order> GetByIdAsync(long id)
     {
-        throw new NotImplementedException();
+        var order = await _repository.GetByIdAsync(id);
+
+        if (order is null) throw new OrderNotFoundException();
+
+        else return order;
+        
     }
 
-    public Task<bool> UpdateAsync(OrderUpdateDto dto)
+    public async Task<bool> UpdateAsync(long orderId, OrderUpdateDto dto)
     {
-        throw new NotImplementedException();
+        var order = await _repository.GetByIdAsync(orderId);
+
+        order.Longitude = dto.Longitude;
+        order.Latitude = dto.Latitude;
+        order.Description = dto.Description;
+        order.Payment = dto.Payment;
+        
+
+        var result = await _repository.UpdateAsync(orderId, order);
+
+        return result > 0;
     }
 }
